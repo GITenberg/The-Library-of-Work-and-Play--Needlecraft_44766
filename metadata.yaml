@@ -1,0 +1,26 @@
+_repo: The-Library-of-Work-and-Play--Needlecraft_44766
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44766-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Archer, Effie Archer
+    gutenberg_agent_id: '42914'
+    url: http://www.gutenberg.org/2009/agents/42914
+description: ''
+gutenberg_bookshelf: Crafts
+gutenberg_issued: '2014-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44766'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The children's library of work and play
+subjects:
+- !lcsh 'Needlework'
+- !lcc 'TT'
+title: 'The Library of Work and Play: Needlecraft'
+url: http://www.gutenberg.org/ebooks/44766

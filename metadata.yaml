@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42914'
     url: http://www.gutenberg.org/2009/agents/42914
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44766#The-Library-of-Work-and-Play--Needlecraft
 gutenberg_bookshelf: Crafts
 gutenberg_issued: '2014-01-26'
 gutenberg_type: Text
